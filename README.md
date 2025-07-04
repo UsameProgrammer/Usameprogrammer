@@ -1,5 +1,10 @@
 ## Hi there 👋
+My name is Osama, I'm new in programing.
+My ambition is to become a professional programmer and designer.
+I just started my account, and I will share all my developments.
+I am now studying web development.
 
+- 🌱 I’m currently learning html and css
 <!--
 **Usame-programer/Usame-programer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
